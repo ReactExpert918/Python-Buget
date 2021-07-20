@@ -21,13 +21,10 @@ import csv
 LARGEFONT =("Verdana", 18)
 SMALLFONT =("Verdana", 12)
 # Define colors
-mainColor = "#56C3A2"
-accentColor = "#57729E"
 
-# Define fonts
-buttonFont = ("Helvetica", 24)
-inputFont = ("Verdana", 20)
-usernameFont = ("Verdana", 16)
+# buttonFont = ("Helvetica", 24)
+# inputFont = ("Verdana", 20)
+# usernameFont = ("Verdana", 16)
 reciepts = {}
 
 class tkinterApp(tk.Tk):
