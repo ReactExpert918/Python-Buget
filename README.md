@@ -1,1 +1,2 @@
-# Python-Buget
+# Budget
+Budgeting software
